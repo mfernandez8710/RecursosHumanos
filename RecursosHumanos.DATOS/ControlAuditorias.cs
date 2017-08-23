@@ -9,7 +9,7 @@ namespace RecursosHumanos.DATOS
 {
     public class ControlAuditorias
     {
-        public string Descripcion { get; set; }
+        public string Descripcion { get; set; } // pepino
 
         public string Cedula { get; set; }
 
